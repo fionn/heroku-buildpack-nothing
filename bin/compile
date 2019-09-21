@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo "-----> Doing nothing for $SOURCE_VERSION"
+echo "       on $STACK."
+
+exit 0
